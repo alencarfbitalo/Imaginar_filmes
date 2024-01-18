@@ -1,5 +1,6 @@
 # ImaginarFilmes
 Muito mais que uma simples produtora de vídeos no mercado
+<br>
 ■ ▪︎ CONTEÚDO DIGITAL GO / SP / CE ▪︎ ■
 <br>
 
@@ -25,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ![Maintainer](https://img.shields.io/badge/-CSS3-blue)
 ![Maintainer](https://img.shields.io/badge/-Javascript-yellow)
 ![Maintainer](https://img.shields.io/badge/-Bootstrap-red)
-<br>
+![Maintainer](https://img.shields.io/badge/-PHP-blue)
 
 
 # Páginas 

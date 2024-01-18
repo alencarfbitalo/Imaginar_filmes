@@ -4,7 +4,7 @@ $email = $_POST["email"];
 $message = $_POST["message"];
 
 
-$EmailTo = "falecom@imaginarfilmes.com.br";
+$EmailTo = "";
 $Subject = "New Message Received";
 
 // prepare email body text

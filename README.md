@@ -14,7 +14,7 @@ Muito mais que uma simples produtora de vídeos no mercado
 
 <br>
 <h2>QR code para ver o site completo</h2>
-<img src="./imgreadme/WereLife.png" width="300" height="300">
+<img src="./imgreadme/frame.png" width="300" height="300">
 
 <br>
 
